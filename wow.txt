@@ -8,10 +8,8 @@ Sixth
 Seventh
 
 
-
-
 I am creating a new commit
 yes 
 
-
-
+This is the second branch that I created
+Now I am going to try to merge it with main
