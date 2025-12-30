@@ -1,4 +1,4 @@
-x = 10
+#!/usr/bin/env python 
 
-for i in range(x):
-    print(f"{x*10} times")
+import sys  
+print("Hello", sys.argv[1:])
